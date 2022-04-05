@@ -1,4 +1,4 @@
-//export LD_LIBRARY_PATH=/home/daniel/Projects/CPP/modmat_kotprog
+#export LD_LIBRARY_PATH=/home/daniel/Projects/CPP/modmat_kotprog
 
 import ctypes
 import numpy as np
